@@ -15,6 +15,9 @@ makedocs(;
     ),
     pages = [
         "Home" => "index.md",
+        "Background" => [
+            "background/silicon_empirical_pseudopotential.md",
+        ],
     ]
 )
 
