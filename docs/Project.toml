@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+QuantumMaterials = "b7f90a98-334d-4c88-adeb-95653daa7524"
